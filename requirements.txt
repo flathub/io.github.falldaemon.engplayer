@@ -1,0 +1,9 @@
+requests
+yt-dlp
+mutagen
+guessit
+protobuf
+rapidfuzz
+Levenshtein
+thefuzz
+deep-translator
